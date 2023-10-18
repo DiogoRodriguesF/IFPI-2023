@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: left;
+}
+
+.cor1{
+	background-color: red;
+	color: white;
+	Width: 50%;
+}
+.cor2{
+	color: yellow;
+	background-color: blue;
+	Width: 25%;
+}
+.cor3{
+	background-color: green;
+	color: black;
+	Width: 15%;
+}
